@@ -1,0 +1,17 @@
+# VP_ellipsis.txt
+# (C) 2023 by Khai Willard <khwillar@iu.edu>
+# language: nav
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Tł'áá hwiił ___ dashicheii hónááná
+----
+Tł'áá hwiił tł'áá dashicheii hónááná
+# Khai Willard: https://talkingdictionary.swarthmore.edu/navajo_verb_mode/?fields=all&semantic_ids=&q=*car&highlight%5B%5D=0
+# Translation eng: The child is visiting the grandfather and the grandmother.
+
+Ahóó asdzáán tł'áá ___ hwiił hónááná.
+----
+Ahóó asdzáán tł'áá ahóó hwiił hónááná.
+# Khai Willard
+# Translation eng: I'm going to see the child and the grandmother.

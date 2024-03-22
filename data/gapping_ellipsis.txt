@@ -1,0 +1,27 @@
+# gapping_ellipsis.txt
+# (C) 2023 by Khai Willard <khwillar@iu.edu>
+# language: nav
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Bill naané jooł daakalígíí, dóó Anna ___ jooł nikídílniihí.
+----
+Bill naané jooł daakalígíí, dóó Anna naané jooł nikídílniihí.
+# added by Khai Willard
+# The Navajo Verb: A Grammar for Students and Scholars, Leonard M. Faltz
+# Translation eng: Bill is playing baseball, and Anna basketball. 
+
+Sally bilasáana ła'yiya, dóó John didzétsoh ___.
+----
+Sally bilasáana ła'yiya, dóó John didzétsoh ła'yiya.
+# added by Khai Willard
+# The Navajo Verb: A Grammar for Students and Scholars, Leonard M. Faltz
+# Translation eng: Sally is eating an apple, and John a peach.
+
+’At’ééd léi’ ___ dóó bicheii nda’alkidígóó naaskai.
+---
+’At’ééd léi’ nda’alkidígóó naaskai dóó bicheii nda’alkidígóó naaskai.
+# added by Khai Willard
+# Bogal-Allbritten, Elizabeth A., "Building Meaning in Navajo" (2016). Doctoral Dissertations. 552. 
+https://doi.org/10.7275/7646815.0 https://scholarworks.umass.edu/dissertations_2/552
+# Translation eng: A girl and her grandfather went to the movies. 

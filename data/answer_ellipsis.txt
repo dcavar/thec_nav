@@ -1,0 +1,12 @@
+# answer_ellipsis.txt
+# (C) 2023 by Khai Willard <khwillar@iu.edu> 
+# language: nav
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Hái lá at'ééd yizts'ǫs? Ashkii ___.
+----
+Hái lá at'ééd yizts'ǫs? Ashkii yizts'ǫs.
+# added by Khai Willard
+# https://www.journals.uchicago.edu/doi/pdf/10.1086/465737
+# Translation eng: Who kissed the girl? The boy did.

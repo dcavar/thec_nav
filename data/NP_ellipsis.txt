@@ -1,0 +1,26 @@
+# NP_ellipsis.txt
+# (C) 2023 by Khai Willard <khwillar@iu.edu>
+# language: nav
+# Notes:
+# These are all grammatical examples. The elided positions are indicated by ___.
+
+Ch’óóshdą́ą́dą́ą́’ shichidí naaki. K’ad ’éí ___ t’ááłá’i.́
+----
+Ch’óóshdą́ą́dą́ą́’ shichidí naaki. K’ad ’éí shichidí t’ááłá’i
+# added by Khai Willard
+# https://talkingdictionary.swarthmore.edu/navajo_verb_mode/?fields=all&semantic_ids=&q=*&highlight%5B%5D=0
+# Translation eng: I used to have two cars, now I only have one.
+
+Tł'áá hwiił ___ hashtł'ish.
+----
+Tł'áá hwiił tł'áá hashtł'ish.
+# added by Khai Willard
+# https://talkingdictionary.swarthmore.edu/navajo_verb_mode/?fields=all&semantic_ids=&q=*&highlight%5B%5D=0
+# Translation eng: The child is running and barking.
+
+Díí chidí, háísh ___ át’é?
+----
+Díí chidí, háísh bichidí át’é?
+# added by Khai Willard
+# Navajo Made Easier, Irvy W. Goossen
+Translation eng: This car, whose is it?
